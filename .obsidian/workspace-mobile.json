@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "09afc480bf29c30a",
+    "type": "split",
+    "children": [
+      {
+        "id": "27a75f7b046e1c6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0acdfa5e6f79f63e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drakkenheim/characters/Aradil.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aradil"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "625ff72835426213",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "246ccaf0ed3ac812",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "9a6f50d2da6f31f3",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "f7785dbb1a9166bf",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "dcecf286f733c101",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d195ad7898300f3e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b7fdf7656b10c9b3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "aa8ca28049a0206e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "c9f38bcf39e59919",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "4adaf49c1f60b8f4",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "246ccaf0ed3ac812",
+  "lastOpenFiles": [
+    "drakkenheim/sessions/2025-01-15.md",
+    "drakkenheim/sessions/2024-12-04.md",
+    "drakkenheim/sessions/2024-07-18.md",
+    "drakkenheim/sessions/2024-07-02.md",
+    "drakkenheim/sessions/2024-05-01.md",
+    "drakkenheim/sessions/2024-01-24.md",
+    "drakkenheim/quests/Win the Royal Fighting Pits.md",
+    "drakkenheim/quests/The Ancient Seals Of Drakkenheim.md",
+    "drakkenheim/quests/Smithy on the scar.md",
+    "drakkenheim/quests/Silver Locket Vinden.md",
+    "drakkenheim/quests/Power Source vinden voor Clocktower.md",
+    "drakkenheim/quests/Offer brengen lady of the deep.md",
+    "drakkenheim/quests/Hitlist Amethyst Academy.md",
+    "drakkenheim/quests/Find The Arcadian Council.md",
+    "drakkenheim/quests/Find Ryan Greymere.md",
+    "drakkenheim/players/Thrandil.md",
+    "drakkenheim/players/Razha.md",
+    "drakkenheim/players/Helmuth.md",
+    "drakkenheim/players/Anshelm.md",
+    "drakkenheim/monsters/Waterbeesten.md",
+    "drakkenheim/monsters/Warg.md",
+    "drakkenheim/monsters/Spider.md",
+    "drakkenheim/monsters/Haze Husk.md",
+    "drakkenheim/monsters/Haze Hulk.md",
+    "drakkenheim/monsters/Harpy.md",
+    "drakkenheim/monsters/Gnome.md",
+    "drakkenheim/_images/sterling.png",
+    "drakkenheim/sessions",
+    "drakkenheim/quests",
+    "drakkenheim/players",
+    "drakkenheim/monsters",
+    "drakkenheim/misc",
+    "drakkenheim/locations",
+    "drakkenheim/items",
+    "drakkenheim/factions",
+    "drakkenheim/events",
+    "drakkenheim/characters"
+  ]
+}
