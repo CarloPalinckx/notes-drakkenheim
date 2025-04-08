@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "-path:drakkenheim/sessions  ",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -62,11 +62,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.990740740740741,
+  "repelStrength": 18.6363636363636,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.416204629212688,
-  "close": true
+  "scale": 0.6840860874853679,
+  "close": false
 }

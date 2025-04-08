@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Aradil"
             }
+          },
+          {
+            "id": "af36502dac1a3eb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,8 +176,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "246ccaf0ed3ac812",
+  "active": "af36502dac1a3eb8",
   "lastOpenFiles": [
+    "drakkenheim/characters/Aradil.md",
+    "Untitled.md",
+    "drakkenheim/items/Auqa Delerium.md",
     "drakkenheim/sessions/2025-01-15.md",
     "drakkenheim/sessions/2024-12-04.md",
     "drakkenheim/sessions/2024-07-18.md",
@@ -186,9 +204,6 @@
     "drakkenheim/monsters/Warg.md",
     "drakkenheim/monsters/Spider.md",
     "drakkenheim/monsters/Haze Husk.md",
-    "drakkenheim/monsters/Haze Hulk.md",
-    "drakkenheim/monsters/Harpy.md",
-    "drakkenheim/monsters/Gnome.md",
     "drakkenheim/_images/sterling.png",
     "drakkenheim/sessions",
     "drakkenheim/quests",
