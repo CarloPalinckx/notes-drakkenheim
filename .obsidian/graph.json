@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:drakkenheim/characters  ",
+      "color": {
+        "a": 1,
+        "rgb": 4607
+      }
+    },
+    {
+      "query": "path:drakkenheim/locations  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:drakkenheim/factions  ",
+      "color": {
+        "a": 1,
+        "rgb": 6394111
+      }
+    },
+    {
+      "query": "path:drakkenheim/players  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:drakkenheim/quests  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:drakkenheim/monsters  ",
+      "color": {
+        "a": 1,
+        "rgb": 14024704
+      }
+    },
+    {
+      "query": "path:drakkenheim/items  ",
+      "color": {
+        "a": 1,
+        "rgb": 16734171
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.416204629212688,
+  "close": true
+}
