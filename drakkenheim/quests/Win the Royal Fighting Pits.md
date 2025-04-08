@@ -1,0 +1,1 @@
+En maak kans om de [[Queen Of Thieves]] te ontmoeten. We zijn op moment van schrijven in de [[Royal Fighting Pits]], knocked out, geil, en niet bang.
