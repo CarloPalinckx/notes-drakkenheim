@@ -3,5 +3,5 @@ tags:
   - characters
 ---
 
-Member of the [[personal/drakkenheim/factions/Arcadian Council]] is een [[Archdruid]]
+Member of the [[Arcadian Council 1]] is een [[Archdruid]]
 

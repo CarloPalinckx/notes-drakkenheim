@@ -3,4 +3,4 @@ tags:
   - characters
 ---
 
-Member of the [[personal/drakkenheim/factions/Arcadian Council]]
+Member of the [[Arcadian Council 1]]
