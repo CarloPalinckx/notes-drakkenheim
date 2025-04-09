@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drakkenheim/characters/Aradil.md",
+                "file": "drakkenheim/locations/Emberwood Village.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Aradil"
+              "title": "Emberwood Village"
             }
           }
         ]
@@ -188,18 +188,18 @@
   },
   "active": "62cd3ecd7f888309",
   "lastOpenFiles": [
-    "drakkenheim/characters/Arnon.md",
-    "drakkenheim/characters/Bashkerville.md",
     "drakkenheim/characters/Blackjack Mel.md",
+    "drakkenheim/characters/Cerillia Verdenta.md",
+    "drakkenheim/characters/Bashkerville.md",
+    "drakkenheim/characters/Arnon.md",
+    "drakkenheim/characters/Aradil.md",
     "drakkenheim/characters/Isadorah the plague doctor.md",
     "drakkenheim/characters/Eogan Ghostweaver.md",
-    "drakkenheim/characters/Aradil.md",
     "drakkenheim/factions/Amethyst Academy.md",
     "drakkenheim/factions/Arcadian Council.md",
     "drakkenheim/characters/Gertrude.md",
     "drakkenheim/characters/Mordecai.md",
     "drakkenheim/characters/Neldor Willowweep.md",
-    "drakkenheim/characters/Cerillia Verdenta.md",
     "drakkenheim/factions/Arcadian Council 1.md",
     "personal/drakkenheim/factions",
     "personal/drakkenheim",
