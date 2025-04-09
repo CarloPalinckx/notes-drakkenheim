@@ -1,7 +1,5 @@
 {
-  "cssTheme": "ITS Theme",
+  "cssTheme": "Ukiyo",
   "theme": "moonstone",
-  "enabledCssSnippets": [
-    "Theme - D&D WOTC"
-  ]
+  "enabledCssSnippets": []
 }
