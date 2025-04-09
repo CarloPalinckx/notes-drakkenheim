@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f056bbed0b1d07f2",
+        "id": "e750738d8e3d581e",
         "type": "tabs",
         "children": [
           {
-            "id": "a78cdf69b5df0f43",
+            "id": "62cd3ecd7f888309",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "drakkenheim/factions/Amethyst Academy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Amethyst Academy"
             }
           }
         ]
@@ -172,16 +176,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e592cd2e59f119ca",
+  "active": "62cd3ecd7f888309",
   "lastOpenFiles": [
+    "drakkenheim/factions/Arcadian Council.md",
+    "drakkenheim/factions/Amethyst Academy.md",
+    "drakkenheim/characters/Bashkerville.md",
+    "drakkenheim/characters/Arnon.md",
+    "drakkenheim/characters/Aradil.md",
+    "drakkenheim/characters/Gertrude.md",
+    "drakkenheim/characters/Isadorah the plague doctor.md",
+    "drakkenheim/characters/Mordecai.md",
+    "drakkenheim/characters/Neldor Willowweep.md",
+    "drakkenheim/characters/Eogan Ghostweaver.md",
+    "drakkenheim/characters/Blackjack Mel.md",
+    "drakkenheim/characters/Cerillia Verdenta.md",
     "drakkenheim/factions/Arcadian Council 1.md",
     "personal/drakkenheim/factions",
     "personal/drakkenheim",
     "personal",
-    "drakkenheim/characters/Eogan Ghostweaver.md",
-    "drakkenheim/characters/Bashkerville.md",
-    "drakkenheim/characters/Arnon.md",
-    "drakkenheim/characters/Aradil.md",
     "drakkenheim/factions/Fallen Fire.md"
   ]
 }
