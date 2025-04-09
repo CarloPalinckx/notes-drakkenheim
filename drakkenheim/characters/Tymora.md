@@ -1,1 +1,1 @@
-God of good fortune.
+ God of good fortune.
