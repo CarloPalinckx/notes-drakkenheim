@@ -11,10 +11,24 @@
             "id": "62cd3ecd7f888309",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "drakkenheim/characters/Bashkerville.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Bashkerville"
             }
           }
         ]
@@ -174,17 +188,17 @@
   },
   "active": "62cd3ecd7f888309",
   "lastOpenFiles": [
+    "drakkenheim/characters/Eogan Ghostweaver.md",
+    "drakkenheim/characters/Blackjack Mel.md",
+    "drakkenheim/characters/Bashkerville.md",
+    "drakkenheim/characters/Aradil.md",
     "drakkenheim/factions/Amethyst Academy.md",
     "drakkenheim/factions/Arcadian Council.md",
-    "drakkenheim/characters/Bashkerville.md",
     "drakkenheim/characters/Arnon.md",
-    "drakkenheim/characters/Aradil.md",
     "drakkenheim/characters/Gertrude.md",
     "drakkenheim/characters/Isadorah the plague doctor.md",
     "drakkenheim/characters/Mordecai.md",
     "drakkenheim/characters/Neldor Willowweep.md",
-    "drakkenheim/characters/Eogan Ghostweaver.md",
-    "drakkenheim/characters/Blackjack Mel.md",
     "drakkenheim/characters/Cerillia Verdenta.md",
     "drakkenheim/factions/Arcadian Council 1.md",
     "personal/drakkenheim/factions",
