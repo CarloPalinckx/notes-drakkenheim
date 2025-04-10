@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "4e637d29f072b0f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfee507ac18d0381",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f6971fd0a477997",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd3260896729378d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7632c1be4040c6d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c7f9019092c8f7c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9743cb87edf9b1d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c08197a0463f45ec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ed9be326b192207f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6a2bd45f6d2f222",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17fcb0c692de3a52",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "8a6af9f72f4e81ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "eb0c5da9c7dc8205",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4cb52decb6932274",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "a0faeb724ea07fd6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9c7f9019092c8f7c",
+  "lastOpenFiles": [
+    "notes/work/team/Jimmy Vos.md",
+    "notes/work/team/Dueen Eduarda.md",
+    "notes/work/notes/Engineering Program.md",
+    "notes",
+    "Welcome.md",
+    "work/team/Rising Star/Mike Rovers.md",
+    "work/team/Rising Star/Aleksandar Lekov.md",
+    "work/team/Vilajet Cela.md",
+    "work/team/Rising Star",
+    "work/team/Thijs van Laarhoven.md",
+    "work/team/Nico Martens.md",
+    "work/team/Marian Salceda.md",
+    "work/team/Manuel Oyuela.md",
+    "work/team/Lucas Bogerd.md",
+    "work/team/Kees Kemper.md",
+    "work/team/Jimmy Vos.md",
+    "work/team/Hakan Yilmaz.md",
+    "work/team/Fateme Shabanzi.md",
+    "work/team/Dueen Eduarda.md",
+    "work/team/Burkay Anduv.md",
+    "work/team/Anna Kowaleska.md",
+    "work/notes/Engineering Program.md",
+    "work/team",
+    "work/notes",
+    "work"
+  ]
+}
