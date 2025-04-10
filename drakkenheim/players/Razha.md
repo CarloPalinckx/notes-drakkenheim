@@ -4,6 +4,7 @@ tags:
 ---
 
 ![[razha.jpg]]
+
 ## Backstory
 
 [[Silverblood Empire]]
