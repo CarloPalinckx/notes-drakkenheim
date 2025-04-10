@@ -2,6 +2,8 @@
 tags:
   - players
 ---
+
+![[razha.jpg]]
 ## Backstory
 
 [[Silverblood Empire]]
