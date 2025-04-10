@@ -1,0 +1,1 @@
+De party is in aanraking gekomen met dit mormel bij een van de eerste verkenningen van de stad. De rat prince is een krachtig en nobel wezen. Zo nobel dat hij de party gespaard heeft bij hun eerste ontmoeting. Een gunst die de party in veelvoud terugbetaald door op nobele wijze zijn kop eraf te hakken.

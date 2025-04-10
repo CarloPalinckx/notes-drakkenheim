@@ -3,7 +3,7 @@ tags:
   - players
 ---
 
-![[razha.jpg]]
+![[drakkenheim/_images/razha.jpg]]/_images/razha.jpg]]
 
 ## Backstory
 
