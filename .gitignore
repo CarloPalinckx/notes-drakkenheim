@@ -1,14 +1,11 @@
-# to exclude Obsidian's settings (including plugin and hotkey configurations)
-
-# OR only to exclude workspace cache
-.obsidian/workspace.json
-
-# to exclude workspace cache specific to mobile devices
-.obsidian/workspace-mobile.json
-
-.obsidian/graph.json
-
-# Add below lines to exclude OS settings and caches
-.trash/
 .DS_Store
-
+.gitignore
+node_modules
+public
+prof
+tsconfig.tsbuildinfo
+.obsidian
+.quartz-cache
+private/
+.replit
+replit.nix
