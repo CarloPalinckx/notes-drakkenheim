@@ -1,6 +1,4 @@
 ---
-title: Drakkenheim
+title: Welcome to Drakkenheim
 ---
-
-![[dungeons-of-drakkenheim-header-01.webp]]
-
+![[dungeons-of-drakkenheim-header-01 1.webp]]
