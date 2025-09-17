@@ -14,4 +14,3 @@ tags:
 - [[Eventide Manor]]
 - [[Watchtower]]
 - [[Shrine of the old gods]]
-- 

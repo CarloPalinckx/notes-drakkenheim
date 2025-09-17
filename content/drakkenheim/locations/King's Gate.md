@@ -1,0 +1,1 @@
+[[rumors]]: The [[Troll of King’s Gate]] will let you pass for a price, but it will cost you an arm and a leg.

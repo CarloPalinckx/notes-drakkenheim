@@ -1,0 +1,1 @@
+[[rumors]]: A [[Shrine of the old gods]] lies north of the castle, tended by an elfish druid with power over life and death.
