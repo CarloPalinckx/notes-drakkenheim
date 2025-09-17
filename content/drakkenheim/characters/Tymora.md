@@ -1,1 +1,6 @@
- God of good fortune.
+---
+tags:
+  - characters
+---
+
+God of good fortune.
