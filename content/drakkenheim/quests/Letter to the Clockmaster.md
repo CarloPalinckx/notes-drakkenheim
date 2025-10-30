@@ -1,0 +1,7 @@
+Ser [[Clockmaster]], Thank you for writing to me. I know you and your family have toiled hard for generations to keep the [[Clocktower]], despite the main mechanism failing a century ago. I must admit, I long believed the clocktower was a frivolous bit of architecture, based on a long-debunked cosmological theory. Nevertheless, a recent discovery upon [[The Isle of Skye]] has ignited my curiosity.The original machinery dates beyond antiquity, and many key components appear similar to devices found in several ancient elvish sites in Skye, though I cannot speak to their original purpose. Examining the clocktower mechanism indicates several delicate parts are heavily damaged and others are now missing, including the power source. We are confident components recovered from Skye could be used to repair it.These components are due to arrive at the [[Inscrutable Tower]] on September 13th. Please make arrangements for our mages and artificers to begin work on repairs the following week. Unfortunately, you will need to vacate the premises for the foreseeable future. We will draw up arrangements for the [[Amethyst Academy]] to lease the building.
+
+Best Regards,
+[[Archmage Adriana Modiera]],
+[[Amethyst Academy]]
+
+September 13th is three days before the meteor

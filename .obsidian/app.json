@@ -2,6 +2,8 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "userIgnoreFilters": [
-    "quartz/"
+    "quartz/",
+    "node_modules/",
+    "public"
   ]
 }
