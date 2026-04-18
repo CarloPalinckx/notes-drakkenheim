@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:quartz.jzhao.xyz)",
+      "Bash(npm run quartz:*)",
+      "WebFetch(domain:carlopalinckx.github.io)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
